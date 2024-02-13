@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{D5F57BDD-3A5E-4956-8111-7A3914EC4AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{30638962-6CDD-427D-94B1-9B661C82175E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{B47F5C03-F27C-4461-BFEA-4E9A52723EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F57BDD-3A5E-4956-8111-7A3914EC4AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F57BDD-3A5E-4956-8111-7A3914EC4AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F57BDD-3A5E-4956-8111-7A3914EC4AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F57BDD-3A5E-4956-8111-7A3914EC4AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30638962-6CDD-427D-94B1-9B661C82175E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30638962-6CDD-427D-94B1-9B661C82175E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30638962-6CDD-427D-94B1-9B661C82175E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30638962-6CDD-427D-94B1-9B661C82175E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47F5C03-F27C-4461-BFEA-4E9A52723EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47F5C03-F27C-4461-BFEA-4E9A52723EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47F5C03-F27C-4461-BFEA-4E9A52723EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47F5C03-F27C-4461-BFEA-4E9A52723EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8079A668-384E-40F1-A41B-EC08D05C2D73}
+	EndGlobalSection
+EndGlobal

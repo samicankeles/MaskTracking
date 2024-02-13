@@ -1,0 +1,11 @@
+/Users/samicankeles/Projects/MaskTracking/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/samicankeles/Projects/MaskTracking/Entities/bin/Debug/net8.0/Entities.dll
+/Users/samicankeles/Projects/MaskTracking/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.dll
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/samicankeles/Projects/MaskTracking/Entities/obj/Debug/net8.0/ref/Entities.dll

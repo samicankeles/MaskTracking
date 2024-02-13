@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samicankeles/Projects/MaskTracking/Workaround/Workaround.csproj": {}
+  },
+  "projects": {
+    "/Users/samicankeles/Projects/MaskTracking/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samicankeles/Projects/MaskTracking/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/samicankeles/Projects/MaskTracking/Business/Business.csproj",
+        "packagesPath": "/Users/samicankeles/.nuget/packages/",
+        "outputPath": "/Users/samicankeles/Projects/MaskTracking/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samicankeles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj": {
+                "projectPath": "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj",
+        "packagesPath": "/Users/samicankeles/.nuget/packages/",
+        "outputPath": "/Users/samicankeles/Projects/MaskTracking/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samicankeles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samicankeles/Projects/MaskTracking/Workaround/Workaround.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samicankeles/Projects/MaskTracking/Workaround/Workaround.csproj",
+        "projectName": "Workaround",
+        "projectPath": "/Users/samicankeles/Projects/MaskTracking/Workaround/Workaround.csproj",
+        "packagesPath": "/Users/samicankeles/.nuget/packages/",
+        "outputPath": "/Users/samicankeles/Projects/MaskTracking/Workaround/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samicankeles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/samicankeles/Projects/MaskTracking/Business/Business.csproj": {
+                "projectPath": "/Users/samicankeles/Projects/MaskTracking/Business/Business.csproj"
+              },
+              "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj": {
+                "projectPath": "/Users/samicankeles/Projects/MaskTracking/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

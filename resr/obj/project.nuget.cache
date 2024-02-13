@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1inIz9Vy6hKhyNbK6sr4PVxorS8TzYbSoX1K2MbXMmyILixYnErsM1695L/O6cHszb2V92TxlmkyK06SXuKrw==",
+  "success": true,
+  "projectFilePath": "/Users/samicankeles/Projects/MaskTracking/resr/resr.csproj",
+  "expectedPackageFiles": [
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.authorization/8.0.1/microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.components/8.0.1/microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.1/microsoft.aspnetcore.components.analyzers.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.1/microsoft.aspnetcore.components.forms.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.components.web/8.0.1/microsoft.aspnetcore.components.web.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.aspnetcore.metadata/8.0.1/microsoft.aspnetcore.metadata.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.extensions.options/8.0.1/microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/microsoft.jsinterop/8.0.1/microsoft.jsinterop.8.0.1.nupkg.sha512",
+    "/Users/samicankeles/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

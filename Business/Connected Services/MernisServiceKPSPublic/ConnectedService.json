@@ -1,0 +1,18 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.1.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
+    ],
+    "namespaceMappings": [
+      "*, Business.KPSPublic"
+    ],
+    "outputFile": "MernisServiceKPSPublic.cs",
+    "references": [
+      "/Users/samicankeles/Projects/MaskTracking/Business/bin/Debug/net8.0/Entities.dll"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
